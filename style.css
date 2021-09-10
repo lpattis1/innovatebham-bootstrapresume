@@ -1,0 +1,10 @@
+/* Custom Styles */
+
+.my-name {
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+.my-position {
+  font-weight: 500;
+}
